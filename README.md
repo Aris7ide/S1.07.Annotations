@@ -7,5 +7,6 @@ A través de los ejercicios propuestos, exploraremos:
 
 - Las anotaciones integradas en Java como @Overridey @Deprecated.
 - La creación de tus propias anotaciones personalizadas .
-- El uso de Java Reflection para leer estas anotaciones en tiempo de ejecución y actuar en consecuencia.
-- El enfoque de esta práctica no es sólo técnico, sino también conceptual: aprenderás cuándo y por qué utilizar anotaciones y cómo pueden mejorar la legibilidad y extensibilidad de tu código.
+- El uso de Java Reflection para leer estas anotaciones en tiempo de ejecución y actuar en consecuencia. 
+
+El enfoque de esta práctica no es sólo técnico, sino también conceptual: aprenderás cuándo y por qué utilizar anotaciones y cómo pueden mejorar la legibilidad y extensibilidad de tu código.
