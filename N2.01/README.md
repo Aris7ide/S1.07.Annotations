@@ -19,3 +19,4 @@ Crea una anotación personalizada que debe permitir serializar un objeto Java en
 - creo la annotation JsonSerializable usando @Target y @Retention
 - he creado la utils JsonUtils usando Gson de Google para escribir en formato Json.
 - he creado la clase Person con el @JsonSerializable pasandole (directory = "directory path")
+- en el main he crado una Person y con le metodo JsonUtils.serializeToJson() se ha serializado en un Json.
