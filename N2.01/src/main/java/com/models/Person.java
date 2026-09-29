@@ -14,6 +14,4 @@ public class Person {
         this.age = age;
         this.surname = surname;
     }
-
-
 }

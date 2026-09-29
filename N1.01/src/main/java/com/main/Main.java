@@ -13,9 +13,9 @@ public class Main {
         TrabajadorOnline onlineWorker = new TrabajadorOnline("Fabio", "Russo", 59);
         TrabajadorPresencial officeWorker = new TrabajadorPresencial("Rossella", "Intini", 12,320);
 
-        System.out.println(worker.calculateSalary(12));
-        System.out.println(onlineWorker.calculateSalary(12));
-        System.out.println(officeWorker.calculateSalary(12));
+        System.out.println("El trabajador gana " + worker.calculateSalary(12));
+        System.out.println("El trabajador en remoto gana " + onlineWorker.calculateSalary(12));
+        System.out.println("El trabajador presencial gana " +officeWorker.calculateSalary(12));
 
         System.out.println(onlineWorker.calculateOldSalary(12));
 
